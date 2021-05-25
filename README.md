@@ -1,6 +1,6 @@
 # Design-Jam-Submission
 
-navigation bar is on top right corner(use navigation bar to view the sections).
+navigation bar is on top left corner(use navigation bar to view the sections).
 
 section 1 of this project is home.
 
