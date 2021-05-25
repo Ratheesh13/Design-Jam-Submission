@@ -1,9 +1,9 @@
 # Design-Jam-Submission
 
-navigation bar is on top left corner(use navigation bar to view the sections).
+navigation bar is on top left corner(use navigation bar to navigate through sections).
 
-section 1 of this project is home.
+sections: The 1st is home.
 
-section 2 of this project is Biography.
+          The 2nd is Biography.
 
-section 3 of the project is video gallery (hover the mouse for play the video).
+          The 3rd is video gallery (hover the mouse for play the video).
